@@ -5,3 +5,5 @@ Both in one Folder SwissPostShipping uplaod Zip File as WordPress Plugin
 
 2 Activate Plugins 
 
+<img="https://www.dropbox.com/s/uugzhejfom0macz/screen_shipping_woocomm_swisspost.png?dl=0" />
+
