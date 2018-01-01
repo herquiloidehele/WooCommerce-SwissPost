@@ -2,7 +2,7 @@
  
 /**
  * Plugin Name: PostPacEconomy Shipping
- * Plugin URI: 
+ * Plugin URI: https://github.com/stooni/WooCommerce-SwissPost/blob/master/PostPacEconomy_Shipping.php
  * Description: Custom Shipping Method for WooCommerce
  * Version: v 1.3
  * Author: Martin Steiner
