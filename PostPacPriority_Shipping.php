@@ -2,7 +2,7 @@
  
 /**
  * Plugin Name: PostPacPriority Shipping
- * Plugin URI: 
+ * Plugin URI: https://github.com/stooni/WooCommerce-SwissPost/blob/master/PostPacPriority_Shipping.php
  * Description: Custom Shipping Method for WooCommerce
  * Version: v 1.3
  * Author: Martin Steiner
